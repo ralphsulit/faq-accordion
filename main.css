@@ -1,0 +1,42 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  font-size: 12px;
+  font-family: 'Kumbh Sans', sans-serif;
+}
+
+/* *******************
+Colors
+******************* */
+.blue {
+  color: hsl(238, 29%, 16%);
+}
+
+.soft-blue {
+  color: hsl(240, 73%, 65%);
+}
+
+.gray-blue {
+  color: hsl(237, 12%, 33%);
+}
+
+.light-blue {
+  color: hsl(240, 5%, 91%);
+}
+
+.gray-blue2 {
+  color: hsl(240, 6%, 50%);
+}
+
+.red {
+  color: hsl(14, 88%, 65%);
+}
+
+.violet {
+  color: hsl(237, 75%, 66%);
+}
+
